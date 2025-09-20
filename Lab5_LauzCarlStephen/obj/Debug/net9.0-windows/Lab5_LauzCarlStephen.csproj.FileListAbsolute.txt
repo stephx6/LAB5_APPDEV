@@ -1,0 +1,14 @@
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\bin\Debug\net9.0-windows\Lab5_LauzCarlStephen.exe
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\bin\Debug\net9.0-windows\Lab5_LauzCarlStephen.deps.json
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\bin\Debug\net9.0-windows\Lab5_LauzCarlStephen.runtimeconfig.json
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\bin\Debug\net9.0-windows\Lab5_LauzCarlStephen.dll
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\bin\Debug\net9.0-windows\Lab5_LauzCarlStephen.pdb
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.AssemblyInfoInputs.cache
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.AssemblyInfo.cs
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.csproj.CoreCompileInputs.cache
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.dll
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\refint\Lab5_LauzCarlStephen.dll
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.pdb
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\Lab5_LauzCarlStephen.genruntimeconfig.cache
+D:\C#\Lab5_LauzCarlStephen\Lab5_LauzCarlStephen\obj\Debug\net9.0-windows\ref\Lab5_LauzCarlStephen.dll
